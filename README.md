@@ -1,4 +1,4 @@
 # Character-Recognition
 
-https://colab.research.google.com/drive/1spSZuQ_F5M-nO3yEMP44jfQDQIMV6z26?usp=sharing
+https://colab.research.google.com/drive/1VEwho713rZEEUfwyUN_kbz2IwOT_xTL5?usp=sharing
 
